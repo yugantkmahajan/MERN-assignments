@@ -1,0 +1,78 @@
+.container-fluid{
+  background-position: center;
+  background-image: url('shutterstock_348320018.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 480px;
+  
+}
+.box{
+
+	width: 500px;
+
+	height: 50px;
+
+	background-color: white;
+
+	display: flex;
+
+	align-items: center;
+
+	padding: 20px;
+
+}
+.box > i {
+
+	font-size: 20px;
+
+	color: #777;
+
+}
+
+.box > input{
+
+	flex: 1;
+
+	height: 40px;
+
+	border: none;
+
+	outline: none;
+
+	font-size: 18px;
+
+	padding-left: 10px;
+
+
+}
+
+.Rectangle-10extra {
+    width: 1366px;
+    height: 480px;
+    margin: 0 0 48px;
+    padding: 17px 101px 81px 306px;
+    background-image: linear-gradient(to bottom, rgba(157, 14, 14, 0), #4f0707);
+  }
+  .image{
+    height: 160px;
+    width: 160px;
+    margin-right:15px;
+    float: left;
+    
+  }
+  .text1{
+    
+      
+      font-size: 14px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      
+      letter-spacing: normal;
+      /* text-align: left; */
+      color: #8c96ab;
+    }
+ .sizeofdiv{
+  height: 160px;
+   width: 360px;
+ }
